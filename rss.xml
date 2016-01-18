@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Corep]]></title>
+        <description><![CDATA[Corep]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 21:05:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The lighting tailors]]></title>
+            <description><![CDATA[<article><h1>The lighting tailors</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ef33a669ad4565a7ce331bc1d41bd1b1428b1af.jpg"></article>]]></description>
+            <link>undefinedthe-lighting-tailors/index.html</link>
+            <guid isPermaLink="false">8ed7fbdd-d357-408b-a067-81c7058b2a78</guid>
+            <pubDate>Mon, 18 Jan 2016 21:04:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
