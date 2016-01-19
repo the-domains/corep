@@ -1,6 +1,6 @@
 name: Corep
 favicon: null
-layout_spectrum: 0.2601331206969917
+layout_spectrum: 0.99729
 typography_spectrum: 0.3565
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#c3c3c1'
-    - '#e2d8d0'
-    - '#a9947e'
-    - '#bfa28b'
-    - '#847867'
+    - '#311309'
+    - '#764328'
+    - '#fefefe'
+    - '#b68879'
+    - '#cec3c1'
   brandStrength: 0.8236768145579845
   lightness: 0.375
   saturation: 0.625
