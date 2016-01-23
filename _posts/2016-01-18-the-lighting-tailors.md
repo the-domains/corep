@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T13:03:19.913Z'
+datePublished: '2016-01-23T13:03:19.927Z'
 dateModified: '2016-01-23T13:03:12.928Z'
 title: The lighting tailors
 author: []
