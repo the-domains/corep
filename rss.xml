@@ -4,14 +4,21 @@
         <description><![CDATA[Corep]]></description>
         <link>https://thegrid.ai/corep/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 21:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 12:05:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/corep/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The lighting tailors]]></title>
-            <description><![CDATA[<article><h1>The lighting tailors</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e37fb0dd293d84be892916e4bfe3a3ef920978db.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The lighting tailors</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ba84fb7ea44e203da9bde129c3320a612ca7b7e.jpg"></article>]]></description>
             <link>https://thegrid.ai/corep/the-lighting-tailors/index.html</link>
             <guid isPermaLink="false">8ed7fbdd-d357-408b-a067-81c7058b2a78</guid>
             <pubDate>Mon, 18 Jan 2016 21:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.corep.com/typo3temp/pics/0ed8238101.jpg">]]></description>
+            <link>https://thegrid.ai/corep/cb2db8d2-144a-4fbb-8b5e-840aa70523c4/index.html</link>
+            <guid isPermaLink="false">cb2db8d2-144a-4fbb-8b5e-840aa70523c4</guid>
+            <pubDate>Sat, 23 Jan 2016 12:05:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
