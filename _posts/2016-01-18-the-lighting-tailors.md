@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T12:45:11.562Z'
-dateModified: '2016-01-23T12:45:08.818Z'
+datePublished: '2016-01-23T13:03:19.913Z'
+dateModified: '2016-01-23T13:03:12.928Z'
 title: The lighting tailors
 author: []
 authors: []
