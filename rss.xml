@@ -4,7 +4,7 @@
         <description><![CDATA[Corep - The Lighting Tailors]]></description>
         <link>https://thegrid.ai/corep/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 00:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 00:02:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/corep/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -50,6 +50,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://corep.pt/images/11.jpg">]]></description>
+            <link>https://thegrid.ai/corep/d096ff00-f56f-4b58-bcf8-f4e5f08ad8d7/index.html</link>
+            <guid isPermaLink="false">d096ff00-f56f-4b58-bcf8-f4e5f08ad8d7</guid>
+            <pubDate>Sun, 24 Jan 2016 00:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://corep.pt/images/crp1108%20modo%20rgb.jpg">]]></description>
             <link>https://thegrid.ai/corep/8b4dc816-febf-4992-add9-f675f2330639/index.html</link>
             <guid isPermaLink="false">8b4dc816-febf-4992-add9-f675f2330639</guid>
@@ -68,13 +75,6 @@
             <link>https://pt.pinterest.com/pin/510666045222908490/</link>
             <guid isPermaLink="false">46614291-7f1a-4bad-8df1-8ee3ff49777e</guid>
             <pubDate>Sat, 23 Jan 2016 14:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/736x/1f/87/13/1f87139680f2ace9f806aa756c711f46.jpg">]]></description>
-            <link>https://pt.pinterest.com/pin/510666045222692905/</link>
-            <guid isPermaLink="false">e735ef8b-be7a-48a0-87de-dc476f5ba6a9</guid>
-            <pubDate>Sat, 23 Jan 2016 14:13:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
