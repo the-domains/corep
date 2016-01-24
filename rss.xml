@@ -4,7 +4,7 @@
         <description><![CDATA[Corep - The Lighting Tailors]]></description>
         <link>https://thegrid.ai/corep/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 00:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 00:02:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/corep/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -50,6 +50,20 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://corep.pt/images/lpe140066.jpg">]]></description>
+            <link>https://thegrid.ai/corep/5340ad02-1336-4d81-a18f-2cd9ce38ced9/index.html</link>
+            <guid isPermaLink="false">5340ad02-1336-4d81-a18f-2cd9ce38ced9</guid>
+            <pubDate>Sun, 24 Jan 2016 00:01:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://corep.pt/images/lpe140059%20beton%20rgb.jpg">]]></description>
+            <link>https://thegrid.ai/corep/2272b0e5-c9a6-4570-a040-5fdfc9144130/index.html</link>
+            <guid isPermaLink="false">2272b0e5-c9a6-4570-a040-5fdfc9144130</guid>
+            <pubDate>Sun, 24 Jan 2016 00:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://corep.pt/images/frm130259.jpg">]]></description>
             <link>https://thegrid.ai/corep/221e9ca3-ef9d-42fb-8fd6-5091ff7e04c9/index.html</link>
             <guid isPermaLink="false">221e9ca3-ef9d-42fb-8fd6-5091ff7e04c9</guid>
@@ -60,20 +74,6 @@
             <description><![CDATA[<img src="http://corep.pt/images/lpe140058%20bleu%20rgb.jpg">]]></description>
             <link>https://thegrid.ai/corep/893783f0-be8a-4260-a8bc-bb9fcfb97e03/index.html</link>
             <guid isPermaLink="false">893783f0-be8a-4260-a8bc-bb9fcfb97e03</guid>
-            <pubDate>Sun, 24 Jan 2016 00:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://corep.pt/images/0147a0.jpg">]]></description>
-            <link>https://thegrid.ai/corep/7ec24ddf-0d6f-49c4-9ee5-00b6483cbad8/index.html</link>
-            <guid isPermaLink="false">7ec24ddf-0d6f-49c4-9ee5-00b6483cbad8</guid>
-            <pubDate>Sun, 24 Jan 2016 00:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://corep.pt/images/k0000650-crop-u2899.jpg">]]></description>
-            <link>https://thegrid.ai/corep/8758d5f4-2fa5-4b1d-8e56-07b14fc6e655/index.html</link>
-            <guid isPermaLink="false">8758d5f4-2fa5-4b1d-8e56-07b14fc6e655</guid>
             <pubDate>Sun, 24 Jan 2016 00:01:21 GMT</pubDate>
         </item>
     </channel>
