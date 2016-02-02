@@ -4,7 +4,7 @@
         <description><![CDATA[Corep - The Lighting Tailors]]></description>
         <link>https://thegrid.ai/corep/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 00:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 23:27:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/corep/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -49,6 +49,20 @@
             <pubDate>Sat, 23 Jan 2016 14:21:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leroy Merlin - Abajures]]></title>
+            <description><![CDATA[<article><h1>Leroy Merlin - Abajures</h1><p>Novo website Leroy Merlin. Mais de 35.000 produtos em atualização permanente, preços, disponibilidades e fique a par de todas as promoções! Venha descobrir-nos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4c776a2e035263bb2419e0e34bf72259452d127.jpg"></article>]]></description>
+            <link>http://www.leroymerlin.pt/Site/Produtos/Iluminacao/Abajures/Abajures.aspx#next=0&amp;size=24&amp;order=3&amp;type=list&amp;min=4&amp;max=52&amp;filter=</link>
+            <guid isPermaLink="false">930bf6d6-72dc-4f26-b56b-acd99e216138</guid>
+            <pubDate>Tue, 02 Feb 2016 23:26:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Corep Iberica - LightingTable LampsCorep Iberica - Lighting]]></title>
+            <description><![CDATA[<article><h1>Corep Iberica - LightingTable LampsCorep Iberica - Lighting</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3080907957322d075b6a60a0b9ea167cc16e6e17.jpg"></article>]]></description>
+            <link>http://corep.pt/table-lamps.html</link>
+            <guid isPermaLink="false">6d0c6d5f-c936-43f4-a900-4185347a5067</guid>
+            <pubDate>Sun, 24 Jan 2016 00:01:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://corep.pt/images/lpe140057%20jaune.jpg">]]></description>
             <link>https://thegrid.ai/corep/5e94d895-6820-4a87-8a76-942104a7dbec/index.html</link>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/corep/5340ad02-1336-4d81-a18f-2cd9ce38ced9/index.html</link>
             <guid isPermaLink="false">5340ad02-1336-4d81-a18f-2cd9ce38ced9</guid>
             <pubDate>Sun, 24 Jan 2016 00:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://corep.pt/images/lpe140059%20beton%20rgb.jpg">]]></description>
-            <link>https://thegrid.ai/corep/2272b0e5-c9a6-4570-a040-5fdfc9144130/index.html</link>
-            <guid isPermaLink="false">2272b0e5-c9a6-4570-a040-5fdfc9144130</guid>
-            <pubDate>Sun, 24 Jan 2016 00:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://corep.pt/images/frm130259.jpg">]]></description>
-            <link>https://thegrid.ai/corep/221e9ca3-ef9d-42fb-8fd6-5091ff7e04c9/index.html</link>
-            <guid isPermaLink="false">221e9ca3-ef9d-42fb-8fd6-5091ff7e04c9</guid>
-            <pubDate>Sun, 24 Jan 2016 00:01:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
