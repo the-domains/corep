@@ -1,7 +1,7 @@
 name: Corep
 favicon: null
-layout_spectrum: 0.24278
-typography_spectrum: 0.4991
+layout_spectrum: 1
+typography_spectrum: 0
 title: Corep - The Lighting Tailors
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9d9690'
     - '#e2e1dd'
     - '#aeaba4'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
