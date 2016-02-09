@@ -1,29 +1,18 @@
-name: Corep
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
-title: Corep - The Lighting Tailors
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#d7d3d0'
-    - '#9d9690'
-    - '#e2e1dd'
-    - '#aeaba4'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 1
+    - '#D0C8A8'
+    - '#484020'
+    - '#685838'
+    - '#C0A878'
+    - '#000000'
+  brandStrength: 0.666666
+  lightness: 0.03125
+  rhythmicContrast: 0.6875
+  saturation: 0.505208
+cta: {}
+layout_spectrum: 0.596354
+name: Corep
+opengraph: {}
 purpose: []
+typography_spectrum: 0
